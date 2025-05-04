@@ -17,12 +17,12 @@ To use the app locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/heads-or-tails-coin-flip.git
+    git clone https://github.com/abhijjeeet/coinflip.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd heads-or-tails-coin-flip
+    cd coinflip
     ```
 
 3. **Create a virtual environment (optional but recommended)**:
